@@ -23,7 +23,7 @@ Custom class object detection system.
 <img src="results/images/all.png" width="300">
 
 
-#### Detections from videos -> results/videos/
+###### Detections from videos is in here - results/videos/
 
 
 
