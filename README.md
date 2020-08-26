@@ -6,17 +6,24 @@ Custom class object detection system.
 #### * Convert downloaded weights using save_model.py (theAIGuysCode) -> save the converted weights to ./checkpoints/1
 
 
-### CUSTOM DETECTIONS FROM THE FRAME
+#### Custom detections from the frame.
 
+###### Bicycle
 <img src="results/images/bicycle.png" width="300">
 
+###### Truck
 <img src="results/images/truck.png" width="300">
 
+###### Dog
 <img src="results/images/dog.png" width="300">
 
-### DETECTIONS OF ALL CLASSES FROM THE FRAME
+#### Detection of all classes from the frame.
 
+###### All
 <img src="results/images/all.png" width="300">
+
+
+#### Detections from videos -> results/videos/
 
 
 
